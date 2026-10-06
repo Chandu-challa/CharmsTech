@@ -1,0 +1,676 @@
+CHARMS Tech — Comprehensive Project Catalogue
+Structured Academic & Enterprise Project Repository
+
+This catalogue presents a categorized matrix of industry-aligned projects and core training tracks engineered for CHARMS Tech Labs. The architecture spans foundational undergraduate (B.Tech) implementations, advanced research-oriented graduate (M.Tech) solutions, real-world enterprise applications, and hybrid AI software systems.
+
+
+🎓 B.Tech Project Track
+1. Full Stack Development
+#
+Project Title
+#
+Project Title
+01
+Student Management System
+21
+Job Portal
+02
+College Management System
+22
+Learning Management System
+03
+Employee Management System
+23
+E-Commerce Platform
+04
+Hospital Management System
+24
+Food Ordering System
+05
+Library Management System
+25
+Online Examination System
+06
+Hostel Management System
+26
+Online Course Management System
+07
+Canteen Management System
+27
+Expense Management System
+08
+Vehicle Management System
+28
+CRM System
+09
+Visitor Management System
+29
+Helpdesk Management System
+10
+Complaint Management System
+30
+Document Management System
+11
+Leave Management System
+31
+Vendor Management System
+12
+Attendance Management System
+32
+Purchase Management System
+13
+Payroll Management System
+33
+Sales Management System
+14
+Inventory Management System
+34
+Invoice Management System
+15
+Asset Management System
+35
+Employee Resignation Management System
+16
+Project Management System
+36
+Visitor Pass Management System
+17
+Event Management System
+37
+Vehicle Parking Management System
+18
+Training Management System
+38
+Blood Bank Management System
+19
+Placement Management System
+39
+Pharmacy Management System
+20
+Recruitment Management System
+40
+Travel Management System
+2. Artificial Intelligence & Machine Learning (AI/ML)
+#
+Project Title
+#
+Project Title
+01
+Student Performance Prediction
+16
+Fake News Detection
+02
+Employee Attrition Prediction
+17
+Sentiment Analysis
+03
+House Price Prediction
+18
+Customer Complaint Classification
+04
+Loan Approval Prediction
+19
+Employee Performance Prediction
+05
+Customer Churn Prediction
+20
+Predictive Maintenance
+06
+Sales Prediction
+21
+Stock Price Prediction
+07
+Demand Forecasting
+22
+Customer Purchase Prediction
+08
+Fraud Detection
+23
+Insurance Claim Prediction
+09
+Credit Risk Prediction
+24
+Student Dropout Prediction
+10
+Disease Prediction
+25
+Employee Salary Prediction
+11
+Recommendation System
+26
+Traffic Prediction
+12
+Resume Classification
+27
+Energy Consumption Prediction
+13
+Resume Screening System
+28
+Crop Yield Prediction
+14
+Job Recommendation System
+29
+Customer Segmentation
+15
+Spam Detection
+30
+Loan Default Prediction
+3. Data Science & Analytics
+#
+Project Title
+#
+Project Title
+01
+Student Analytics Dashboard
+11
+Marketing Analytics
+02
+College Performance Analytics
+12
+E-Commerce Analytics
+03
+Placement Analytics
+13
+Hospital Analytics
+04
+Attendance Analytics
+14
+Manufacturing Analytics
+05
+Employee Analytics
+15
+Stock Market Analytics
+06
+HR Analytics
+16
+Business KPI Dashboard
+07
+Sales Analytics
+17
+Employee Productivity Analytics
+08
+Customer Analytics
+18
+Customer Behaviour Analysis
+09
+Inventory Analytics
+19
+Sales Forecasting Dashboard
+10
+Financial Analytics
+20
+Inventory Demand Analytics
+
+Technology Stack: Python + Pandas + NumPy + Matplotlib + Seaborn + SQL + Power BI
+4. Generative AI
+#
+Project Title
+#
+Project Title
+01
+AI College Chatbot
+11
+AI FAQ Chatbot
+02
+AI Student Assistant
+12
+AI Customer Support Assistant
+03
+AI Resume Builder
+13
+AI Career Assistant
+04
+AI Interview Assistant
+14
+AI College Information Assistant
+05
+AI Study Assistant
+15
+AI Knowledge Assistant
+06
+AI Notes Generator
+16
+AI Meeting Summarizer
+07
+AI Question Paper Generator
+17
+AI Content Generator
+08
+AI PDF Assistant
+18
+AI Assignment Assistant
+09
+AI Document Summarizer
+19
+AI Learning Assistant
+10
+AI Email Generator
+20
+AI Documentation Assistant
+5. Computer Vision
+#
+Project Title
+#
+Project Title
+01
+Face Recognition Attendance System
+11
+Fire Detection System
+02
+Object Detection System
+12
+Document Image Classification
+03
+Vehicle Detection System
+13
+Emotion Recognition
+04
+Number Plate Recognition
+14
+Traffic Sign Recognition
+05
+Face Mask Detection
+15
+Defect Detection System
+06
+Hand Gesture Recognition
+16
+Helmet Detection System
+07
+Image Classification System
+17
+Crowd Detection System
+08
+Plant Disease Detection
+18
+Vehicle Counting System
+09
+Waste Classification System
+19
+Human Activity Recognition
+10
+PPE Detection System
+20
+Medical Image Classification
+6. Natural Language Processing (NLP)
+#
+Project Title
+#
+Project Title
+01
+Sentiment Analysis
+09
+Chatbot
+02
+Fake News Detection
+10
+FAQ Question Answering
+03
+Spam Email Classification
+11
+Text Summarization
+04
+Text Classification
+12
+Named Entity Recognition
+05
+News Classification
+13
+Document Classification
+06
+Resume Classification
+14
+Language Detection
+07
+Resume Job Matching
+15
+Review Analysis
+08
+Customer Complaint Classification
+
+
+
+
+🎓 M.Tech Project Track (Advanced & Research)
+7. Advanced Machine Learning
+#
+Project Title
+#
+Project Title
+01
+Explainable AI for Healthcare Prediction
+09
+Predictive Maintenance Using Machine Learning
+02
+Advanced Fraud Detection
+10
+Explainable Machine Learning
+03
+Federated Learning
+11
+Advanced Credit Risk Prediction
+04
+Privacy-Preserving Machine Learning
+12
+Multi-Model Prediction Framework
+05
+Ensemble Learning Optimization
+13
+Intelligent Decision Support System
+06
+Automated Machine Learning
+14
+Adaptive Machine Learning System
+07
+Advanced Recommendation System
+15
+ML Model Optimization Framework
+08
+Anomaly Detection Framework
+
+
+8. Deep Learning
+#
+Project Title
+#
+Project Title
+01
+Medical Image Classification Using Deep Learning
+09
+Deep Learning-Based Forecasting
+02
+Advanced Object Detection
+10
+Multimodal Deep Learning
+03
+Image Segmentation
+11
+Deepfake Detection
+04
+Multi-Class Image Classification
+12
+Facial Expression Recognition
+05
+CNN-Based Disease Detection
+13
+Advanced Human Activity Recognition
+06
+Transformer-Based Image Classification
+14
+Medical Image Segmentation
+07
+Deep Learning-Based Anomaly Detection
+15
+Intelligent Video Surveillance
+08
+Video Analytics System
+
+
+9. Advanced Natural Language Processing
+#
+Project Title
+#
+Project Title
+01
+Advanced Sentiment Analysis
+09
+Document Intelligence
+02
+Domain-Specific Text Classification
+10
+Domain-Specific NLP System
+03
+Fake News Detection
+11
+Multilingual NLP System
+04
+Intelligent Document Classification
+12
+Legal Document Analysis
+05
+Advanced Question Answering
+13
+Medical Text Analysis
+06
+Text Summarization
+14
+Research Paper Classification
+07
+Named Entity Recognition
+15
+Intelligent Text Analytics
+08
+Semantic Search Engine
+
+
+10. Generative AI & Large Language Models (LLM)
+#
+Project Title
+#
+Project Title
+01
+Enterprise RAG System
+11
+Multi-Agent AI System
+02
+Multi-Document Question Answering System
+12
+RAG-Based Enterprise Search
+03
+Domain-Specific AI Assistant
+13
+Intelligent Document Processing
+04
+AI Research Assistant
+14
+AI Knowledge Management System
+05
+AI Knowledge Base
+15
+Domain-Specific LLM Assistant
+06
+Research Paper Assistant
+16
+AI-Based Technical Support Assistant
+07
+LLM Document Analysis
+17
+AI-Based HR Assistant
+08
+AI SQL Assistant
+18
+AI-Based Legal Document Assistant
+09
+AI Code Assistant
+19
+AI-Based Healthcare Knowledge Assistant
+10
+AI Agent Platform
+20
+AI-Based College Knowledge Assistant
+
+Technology Stack: Python + FastAPI/Django + LLM + RAG + Ollama + Embeddings + Vector Database + Next.js
+11. Advanced Research Projects
+#
+Project Title
+#
+Project Title
+01
+Explainable Artificial Intelligence
+11
+Transformer-Based Systems
+02
+Federated Learning
+12
+Advanced Computer Vision
+03
+Privacy-Preserving AI
+13
+AI Optimization
+04
+AI-Based Cybersecurity
+14
+Intelligent Decision Support Systems
+05
+Advanced Anomaly Detection
+15
+Adaptive AI Systems
+06
+Time-Series Forecasting
+16
+Human-AI Collaboration
+07
+Multimodal AI
+17
+AI-Based Predictive Maintenance
+08
+AI Agent Systems
+18
+Advanced Recommendation Systems
+09
+Knowledge Graph + LLM
+19
+Explainable Deep Learning
+10
+Graph Neural Networks
+20
+AI-Based Risk Prediction
+
+
+🏢 Specialized & Hybrid Categories
+12. Enterprise Business Systems
+#
+Project Title
+#
+Project Title
+01
+Security Management System
+11
+Employee Management System
+02
+Change Management System
+12
+Training Management System
+03
+Risk Management System
+13
+Recruitment Management System
+04
+Document Management System
+14
+Approval Workflow System
+05
+Asset Management System
+15
+Quality Management System
+06
+Purchase Management System
+16
+Audit Management System
+07
+Vendor Management System
+17
+Compliance Management System
+08
+Inventory Management System
+18
+Production Management System
+09
+Calibration Management System
+19
+Warehouse Management System
+10
+Maintenance Management System
+20
+Enterprise Helpdesk System
+13. Advanced Full Stack Platforms
+#
+Project Title
+#
+Project Title
+01
+Multi-Vendor E-Commerce Platform
+11
+Online Examination Platform
+02
+Job Portal
+12
+Recruitment Platform
+03
+Learning Management System
+13
+Event Management Platform
+04
+CRM Platform
+14
+Service Booking Platform
+05
+Project Management SaaS
+15
+Subscription Management System
+06
+HR Management Platform
+16
+Customer Support Platform
+07
+Hospital Management Platform
+17
+Document Management Platform
+08
+College ERP
+18
+Expense Management Platform
+09
+Inventory ERP
+19
+Employee Self-Service Portal
+10
+Business Analytics Platform
+20
+Business Workflow Management System
+14. AI + Full Stack Combined Platforms
+#
+Project Title
+#
+Project Title
+01
+AI-Powered College Management System
+11
+AI Document Management System
+02
+AI-Powered Recruitment Platform
+12
+AI Knowledge Management System
+03
+AI Resume Screening System
+13
+AI Complaint Management System
+04
+AI Job Recommendation Platform
+14
+AI HR Assistant
+05
+AI Customer Support System
+15
+AI Finance Assistant
+06
+AI Hospital Assistant
+16
+AI Learning Management System
+07
+AI Student Performance Platform
+17
+AI Research Assistant
+08
+AI Employee Analytics Platform
+18
+AI Enterprise Search
+09
+AI Inventory Forecasting System
+19
+AI Business Analytics Platform
+10
+AI Sales Forecasting Platform
+20
+AI Decision Support System
+
